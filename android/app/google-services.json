@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "191103213609",
+    "project_id": "lancer-ab3c5",
+    "storage_bucket": "lancer-ab3c5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:191103213609:android:016fb997ea07bd1a9bfc38",
+        "android_client_info": {
+          "package_name": "com.lancer.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDywoCl4U9O_bYVRIp4W8JD_hrUc0df9w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
